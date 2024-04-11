@@ -1,0 +1,5 @@
+[tools]
+tuist = "4.9.0"
+
+[settings]
+legacy_version_file = false
